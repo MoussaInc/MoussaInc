@@ -1,6 +1,6 @@
-# 👋 Salut, je suis Moussa MBALLO
+# 👋 Bienvenue, je m'appelle Moussa MBALLO
 
-🎓 **Ingénieur Génie Civil** | 📊 **Analyste de Données** | 💻 **Développeur Web**
+🎓 **Ingénieur Génie Civil** | 📊 **Data Analyst**
 
 Je combine une forte expertise technique dans l’auscultation, le diagnostic et la réhabilitation d’ouvrages avec une passion pour la **Data Science** et les technologies innovantes. 
 Mon objectif : croiser les mondes du **génie civil** et de la **donnée** pour apporter des solutions concrètes, robustes et intelligentes aux problématiques de la construction.
@@ -11,7 +11,7 @@ Mon objectif : croiser les mondes du **génie civil** et de la **donnée** pour 
 
 - 🏗️ **Génie Civil** : diagnostics pathologiques d’ouvrages, calcul de structure, prescriptions et suivi de travaux
 - 📊 **Data Science** : Python, Pandas, Scikit-learn, Power BI, Machine Learning
-- 🌐 **Data engineering** : SQL, Docker, GCP
+- 🌐 **Data engineering** : SQL, Docker, Kestra, GCP
 
 ---
 
