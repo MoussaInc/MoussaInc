@@ -1,3 +1,77 @@
+# Titre principal
+
+## Ceci est un paragraphe visible.
+
+Ceci est un paragraphe visible.
+
+<!--
+Ce paragraphe est masqué.
+Il peut servir de note interne ou de brouillon.
+-->
+
+Et voici un autre paragraphe visible.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 👋 Bienvenue, je m'appelle Moussa MBALLO
 
 🎓 **Ingénieur Génie Civil** | 📊 **Data Analyst**
@@ -36,7 +110,11 @@ Mon objectif : croiser les mondes du **génie civil** et de la **donnée** pour 
 
 ## 📚 Formations
 
-- 🎓 Master 2 Pro Génie Civil – Université Grenoble Alpes  
-- 🎓 Master 2 Recherche Hydrologie – INP Toulouse  
-- 🎓 Ingénieur Génie Civil – EPT Thiès (Sénégal)  
-- 🎓 Licence 3 Mathématiques Appliquées & Informatique – UGB Saint-Louis (Sénégal)
+- 🎓 Data engineer - Data Engineering Zoomcamp (Decembre 2025)
+- 🎓 Power BI - Associé Analyste de Données Certifié Microsoft (Aout 2025) 
+- 🎓 Google Data Analytics - Coursera (Juillet 2025)
+- 🎓 Developpeur Full Stack - UDEMY (2024)  
+- 🎓 Master 2 Pro Génie Civil – Université Grenoble Alpes (2017)  
+- 🎓 Master 2 Recherche Hydrologie – INP Toulouse (2016)
+- 🎓 Ingénieur Génie Civil – EPT Thiès (Sénégal, 2013)  
+- 🎓 Licence 3 Mathématiques Appliquées & Informatique – UGB Saint-Louis (Sénégal, 2010)
