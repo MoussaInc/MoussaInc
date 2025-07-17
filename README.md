@@ -39,7 +39,7 @@ Mon objectif : croiser les mondes du **génie civil** et de la **donnée** pour 
 - 🎓 Data engineer - Data Engineering Zoomcamp (Decembre 2025)
 - 🎓 Power BI - Associé Analyste de Données Certifié Microsoft (Aout 2025) 
 -->
-- 🎓 Google Data Analytics - Coursera (Juillet 2025)
+- 🎓 Google Advanced Data Analytics Certificat Professionnel - Coursera (Juillet 2025)
 - 🎓 Developpeur Full Stack - UDEMY (2024)  
 - 🎓 Master 2 Pro Génie Civil – Université Grenoble Alpes (2017)  
 - 🎓 Master 2 Recherche Hydrologie – INP Toulouse (2016)
