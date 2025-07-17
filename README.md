@@ -11,7 +11,7 @@ Mon objectif : croiser les mondes du **génie civil** et de la **donnée** pour 
 
 - 🏗️ **Génie Civil** : diagnostics pathologiques d’ouvrages, calcul de structure, prescriptions et suivi de travaux
 - 📊 **Data Science** : Python, Pandas, Scikit-learn, Power BI, Machine Learning
-- 🌐 **Data engineering** : SQL, Docker, Kestra, GCP
+- 🌐 **Data engineering** : SQL, Docker, Kestra, dbt, GCP
 
 ---
 
