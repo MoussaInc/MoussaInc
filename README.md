@@ -21,11 +21,17 @@ Mon objectif : croiser les mondes du **génie civil** et de la **donnée** pour 
 |--------|-------------|-------|
 
 | 🛠️ [Data Engineering Zoomcamp](https://github.com/MoussaInc/data-engineering-zoomcamp-2025) | Les fondatamentaux de la data engineering | Docker, PostgreSQL, Big Query, Kestra, dbt, Kafka |
+
 | 📈 [Data analyse et ML (machine learning)](https://github.com/MoussaInc/Data-analyse-et-ML) | Projets analyse de données et data science | Jupyter Notebook, Pandas, Scikit-learn, Scipy, StatsModels |
+
 | 🛰️ [GRACE Hydrologie](https://github.com/MoussaInc/grace-hydrology-analysis) | Analyse de données gravimétriques pour l’étude des variations d’eau sur le bassin de la Garonne | Python, GeoPandas |
+
 | 🧱 [Diagnostic Assainissement DEA93](https://github.com/MoussaInc/dea93-diagnostics) | Réhabilitation de réseaux pour la Seine-Saint-Denis | Power BI, Génie Civil |
+
 | 💡 [Portfolio Web](https://github.com/MoussaInc/site-poussaim-org) | Site personnel [poussaim.org](https://poussaim.org) pour présenter mes projets | Django, HTML |
+
 | 📊 [Dashboard Power BI](https://github.com/MoussaInc/powerbi-assainissement) | Visualisation de données techniques de terrain | Power BI |
+
 
 ---
 
