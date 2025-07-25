@@ -29,7 +29,7 @@ Mon objectif : croiser les mondes du **génie civil** et de la **donnée** pour 
 
 | 🧱 [Diagnostic Assainissement DEA93](https://github.com/MoussaInc/dea93-diagnostics) | Réhabilitation de réseaux pour la Seine-Saint-Denis | Power BI, Génie Civil |
 
-| 💡 [Portfolio Web](https://github.com/MoussaInc/site-poussaim-org) | Site personnel [poussaim.org](https://poussaim.org) pour présenter mes projets | Django, HTML |
+| 💡 [Portfolio Web](https://github.com/MoussaInc/site-poussaim-org](https://poussaim.org/) | Site personnel [poussaim.org](https://poussaim.org) pour présenter mes projets | Django, HTML |
 
 | 📊 [Dashboard Power BI](https://github.com/MoussaInc/powerbi-assainissement) | Visualisation de données techniques de terrain | Power BI |
 
