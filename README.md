@@ -19,7 +19,7 @@ Mon objectif : croiser les mondes du **génie civil** et de la **donnée** pour 
 
 | Projet | Description | Liens |
 |--------|-------------|-------|
-| 📈 [Data analyse et ML (machine learning)] | Projets analyse de données et data science | Jupyter Notebook, Pandas, Scikit-learn, Scipy, StatsModels |
+| 📈 [Data analyse et ML (machine learning)]((https://github.com/MoussaInc/Data-analyse-et-ML) | Projets analyse de données et data science | Jupyter Notebook, Pandas, Scikit-learn, Scipy, StatsModels |
 | 🛰️ [GRACE Hydrologie](https://github.com/MoussaInc/grace-hydrology-analysis) | Analyse de données gravimétriques pour l’étude des variations d’eau sur le bassin de la Garonne | Python, GeoPandas |
 | 🧱 [Diagnostic Assainissement DEA93](https://github.com/MoussaInc/dea93-diagnostics) | Réhabilitation de réseaux pour la Seine-Saint-Denis | Power BI, Génie Civil |
 | 💡 [Portfolio Web](https://github.com/MoussaInc/site-poussaim-org) | Site personnel [poussaim.org](https://poussaim.org) pour présenter mes projets | Django, HTML |
