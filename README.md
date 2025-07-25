@@ -12,6 +12,7 @@ Mon objectif : croiser les mondes du **génie civil** et de la **donnée** pour 
 - 🏗️ **Génie Civil** : diagnostics pathologiques d’ouvrages, calcul de structure, prescriptions et suivi de travaux
 - 📊 **Data Science** : Python, Pandas, Scikit-learn, Power BI, Machine Learning
 - 🌐 **Data engineering** : SQL, Docker, Kestra, dbt, GCP
+- 🔗 **Developpement web** : Django, Spring Boot
 
 ---
 
@@ -46,10 +47,11 @@ Mon objectif : croiser les mondes du **génie civil** et de la **donnée** pour 
 ## 📚 Formations
 <!--
 - 🎓 Data engineer - Data Engineering Zoomcamp (Decembre 2025)
+--!>
+
 - 🎓 Power BI - Associé Analyste de Données Certifié Microsoft (Aout 2025) 
--->
 - 🎓 Google Advanced Data Analytics Certificat Professionnel - Coursera (Juillet 2025)
-- 🎓 Developpeur Full Stack - UDEMY (2024)  
+- 🎓 Developpeur Full Stack - UDEMY (Juillet 2023)  
 - 🎓 Master 2 Pro Génie Civil – Université Grenoble Alpes (2017)  
 - 🎓 Master 2 Recherche Hydrologie – INP Toulouse (2016)
 - 🎓 Ingénieur Génie Civil – EPT Thiès (Sénégal, 2013)  
