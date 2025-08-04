@@ -47,7 +47,7 @@ Mon objectif : croiser les mondes du **génie civil** et de la **donnée** pour 
 ## 📚 Formations
 <!--
 - 🎓 Data engineer - Data Engineering Zoomcamp (Decembre 2025)
---!>
+-->
 
 - 🎓 Power BI - Associé Analyste de Données Certifié Microsoft (Aout 2025) 
 
