@@ -50,9 +50,16 @@ Mon objectif : croiser les mondes du **génie civil** et de la **donnée** pour 
 --!>
 
 - 🎓 Power BI - Associé Analyste de Données Certifié Microsoft (Aout 2025) 
+
 - 🎓 Google Advanced Data Analytics Certificat Professionnel - Coursera (Juillet 2025)
+
 - 🎓 Developpeur Full Stack - UDEMY (Juillet 2023)  
+
 - 🎓 Master 2 Pro Génie Civil – Université Grenoble Alpes (2017)  
+
 - 🎓 Master 2 Recherche Hydrologie – INP Toulouse (2016)
+
 - 🎓 Ingénieur Génie Civil – EPT Thiès (Sénégal, 2013)  
+
 - 🎓 Licence 3 Mathématiques Appliquées & Informatique – UGB Saint-Louis (Sénégal, 2010)
+
