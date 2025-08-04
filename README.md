@@ -25,13 +25,14 @@ Mon objectif : croiser les mondes du **génie civil** et de la **donnée** pour 
 
 | 📈 [Data analyse et ML (machine learning)](https://github.com/MoussaInc/Data-analyse-et-ML) | Projets analyse de données et data science | Jupyter Notebook, Pandas, Scikit-learn, Scipy, StatsModels |
 
-| 🛰️ [GRACE Hydrologie](https://github.com/MoussaInc/grace-hydrology-analysis) | Analyse de données gravimétriques pour l’étude des variations d’eau sur le bassin de la Garonne | Python, GeoPandas |
+| 🧱 [Concrete Strength Predictor]([https://github.com/MoussaInc/grace-hydrology-analysis](https://github.com/MoussaInc/Data-analyse-et-ML/tree/main/projets/2-concrete_strength_project) | Prédiction de la résistance (en compression simple) du béton à partir de sa composition et durée de cure, via une API FastAPI et un dashboard Streamlit. | XGBoostRegressor, sklearn, RandomForestRegressor, GridSearchCV, PostgreSQL, FastAPI, Streamlit, Docker, LinearRegression |
 
-| 🧱 [Diagnostic Assainissement DEA93](https://github.com/MoussaInc/dea93-diagnostics) | Réhabilitation de réseaux pour la Seine-Saint-Denis | Power BI, Génie Civil |
-
-| 💡 [Portfolio Web](https://github.com/MoussaInc/site-poussaim-org](https://poussaim.org/) | Site personnel [poussaim.org](https://poussaim.org) pour présenter mes projets | Django, HTML |
+<!--| 🧱 [Diagnostic Assainissement DEA93](https://github.com/MoussaInc/dea93-diagnostics) | Réhabilitation de réseaux pour la Seine-Saint-Denis | Power BI, Génie Civil |
 
 | 📊 [Dashboard Power BI](https://github.com/MoussaInc/powerbi-assainissement) | Visualisation de données techniques de terrain | Power BI |
+-->
+
+| 💡 [Portfolio Web](https://github.com/MoussaInc/site-poussaim-org](https://poussaim.org/) | Site personnel [poussaim.org](https://poussaim.org) pour présenter mes projets | Django, HTML |
 
 
 ---
