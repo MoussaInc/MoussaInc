@@ -25,7 +25,7 @@ Mon objectif : croiser les mondes du **génie civil** et de la **donnée** pour 
 
 | 📈 [Data analyse et ML (machine learning)](https://github.com/MoussaInc/Data-analyse-et-ML) | Projets analyse de données et data science | Jupyter Notebook, Pandas, Scikit-learn, Scipy, StatsModels |
 
-| 🧱 [Concrete Strength Predictor]([https://github.com/MoussaInc/grace-hydrology-analysis](https://github.com/MoussaInc/Data-analyse-et-ML/tree/main/projets/2-concrete_strength_project) | Prédiction de la résistance (en compression simple) du béton à partir de sa composition et durée de cure, via une API FastAPI et un dashboard Streamlit. | XGBoostRegressor, sklearn, RandomForestRegressor, GridSearchCV, PostgreSQL, FastAPI, Streamlit, Docker, LinearRegression |
+| 🧱 [Concrete Strength Predictor](https://github.com/MoussaInc/Data-analyse-et-ML/tree/main/projets/2-concrete_strength_project) | Prédiction de la résistance (en compression simple) du béton à partir de sa composition et durée de cure, via une API FastAPI et un dashboard Streamlit. | XGBoostRegressor, sklearn, RandomForestRegressor, GridSearchCV, PostgreSQL, FastAPI, Streamlit, Docker, LinearRegression |
 
 <!--| 🧱 [Diagnostic Assainissement DEA93](https://github.com/MoussaInc/dea93-diagnostics) | Réhabilitation de réseaux pour la Seine-Saint-Denis | Power BI, Génie Civil |
 
