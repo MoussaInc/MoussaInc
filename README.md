@@ -22,8 +22,11 @@ Mon objectif : croiser les mondes du **génie civil** et de la **donnée** pour 
 |--------|-------------|-------|
 
 | 🛠️ [Data Engineering Zoomcamp](https://github.com/MoussaInc/data-engineering-zoomcamp-2025) | Les fondatamentaux de la data engineering | Docker, PostgreSQL, Big Query, Kestra, dbt, Kafka |
+
 | 📈 [Data analyse et ML : Titanic Survival](https://github.com/MoussaInc/Data-analyse-et-ML) | Prédiction de survie des passagers du Titanic (modèle ML supervisé) | Jupyter Notebook, pandas, seaborn, scikit-learn, matplotlib, LogisticRegression, RandomForestClassifier, XGBoostClassifier, GridSearchCV |
+
 | 🧱 [Concrete Strength Predictor](https://github.com/MoussaInc/Data-analyse-et-ML/tree/main/projets/2-concrete_strength_project) | Prédiction de la résistance (en compression simple) du béton à partir de sa composition et durée de cure, via une API FastAPI et un dashboard Streamlit | XGBoostRegressor, sklearn, RandomForestRegressor, GridSearchCV, PostgreSQL, FastAPI, Streamlit, Docker, LinearRegression |
+
 <!--| 🧱 [Diagnostic Assainissement DEA93](https://github.com/MoussaInc/dea93-diagnostics) | Réhabilitation de réseaux pour la Seine-Saint-Denis | Power BI, Génie Civil |
 
 | 📊 [Dashboard Power BI](https://github.com/MoussaInc/powerbi-assainissement) | Visualisation de données techniques de terrain | Power BI |
