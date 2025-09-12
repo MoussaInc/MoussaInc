@@ -52,7 +52,7 @@ Mon objectif : croiser les mondes du **génie civil** et de la **donnée** pour 
 **Formation intensive** sur les fondamentaux de la data engineering moderne
 
 - **Modules complétés** : Docker & Terraform, Workflow Orchestration, Analytics Engineering
-- **Technologies** : Kestra, dbt, BigQuery, Apache Kafka, GCP
+- **Technologies** : Kestra, dbt, BigQuery, GCP
 - **Certification** : Bootcamp DataTalks.Club reconnu dans l'industrie
 
 ### 📈 **[Titanic Survival Analysis](https://github.com/MoussaInc/Data-analyse-et-ML/tree/main/projets/1-titanic-survival)**
@@ -93,7 +93,6 @@ Mon objectif : croiser les mondes du **génie civil** et de la **donnée** pour 
 
 Recherche d'opportunités en **Data Engineering**, **Data Science** ou **MLOps Engineering**, avec une forte appétence pour l'architecture de systèmes data et le déploiement de solutions ML en production. Particulièrement intéressé par :
 
-- 🏗️ **Architecture de données** : conception de data lakes, data warehouses, pipelines cloud-native
 - 🔬 **Analytics Engineering** : transformation de données, modélisation dimensionnelle, dbt
 - 🤖 **MLOps & Production ML** : déploiement de modèles, monitoring, CI/CD pour l'IA
 - 🌐 **Applications sectorielles** : construction, ingénierie, infrastructures (expertise métier unique)
