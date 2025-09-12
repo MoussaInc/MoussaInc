@@ -1,8 +1,9 @@
 # 👋 Bienvenue, je m'appelle Moussa MBALLO
 
-**🎓 Ingénieur Génie Civil** | **📊 Data Engineer & Analyst**
+**🎓 Ingénieur Génie Civil** | **📊 Data Scientist & MLOps Engineer**
 
-Je combine une forte expertise technique dans l'auscultation, le diagnostic et la réhabilitation d'ouvrages avec une passion pour la **Data Science** et les **technologies cloud modernes**. Mon objectif : croiser les mondes du **génie civil** et de la **donnée** pour apporter des solutions concrètes, robustes et intelligentes aux problématiques de la construction.
+Je combine une forte expertise technique dans l'auscultation, le diagnostic et la réhabilitation d'ouvrages avec une passion pour la **Data Science** et les **technologies cloud modernes**. 
+Mon objectif : croiser les mondes du **génie civil** et de la **donnée** pour apporter des solutions concrètes, robustes et intelligentes aux problématiques de la construction.
 
 ---
 
@@ -24,8 +25,6 @@ Je combine une forte expertise technique dans l'auscultation, le diagnostic et l
 - **Pipeline ETL** : ingestion, transformation, chargement de données
 - **Orchestration** : Kestra, workflow automation
 - **Cloud platforms** : GCP (BigQuery), services cloud modernes
-- **Transformation de données** : dbt, analytics engineering
-- **Streaming** : Apache Kafka, données en temps réel
 
 ### 💻 **Développement & DevOps**
 - **Backend** : Django, Spring Boot
@@ -92,7 +91,12 @@ Je combine une forte expertise technique dans l'auscultation, le diagnostic et l
 
 ## 🎯 Objectifs professionnels
 
-Recherche d'opportunités en **Data Science**, **MLOps Engineering** ou **Data Engineering**, avec une préférence pour les projets combinant expertise technique avancée et impact métier concret. Particulièrement intéressé par les applications dans la construction, l'ingénierie ou les infrastructures.
+Recherche d'opportunités en **Data Engineering**, **Data Science** ou **MLOps Engineering**, avec une forte appétence pour l'architecture de systèmes data et le déploiement de solutions ML en production. Particulièrement intéressé par :
+
+- 🏗️ **Architecture de données** : conception de data lakes, data warehouses, pipelines cloud-native
+- 🔬 **Analytics Engineering** : transformation de données, modélisation dimensionnelle, dbt
+- 🤖 **MLOps & Production ML** : déploiement de modèles, monitoring, CI/CD pour l'IA
+- 🌐 **Applications sectorielles** : construction, ingénierie, infrastructures (expertise métier unique)
 
 ---
 
