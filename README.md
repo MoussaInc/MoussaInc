@@ -70,7 +70,7 @@ Je combine une forte expertise technique dans l'auscultation, le diagnostic et l
 - **🔗 Site web** : [www.poussaim.org](http://www.poussaim.org)
 - **✉️ Email** : papis.mballo@gmail.com
 - **📞 Téléphone** : (+33) 6 01 45 86 26
-- **💼 LinkedIn** : *[À ajouter si disponible]*
+- **💼 LinkedIn** : *www.linkedin.com/in/moussamb-genie-civl-data*
 
 ---
 
