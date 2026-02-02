@@ -1,102 +1,114 @@
 # 👋 Bienvenue, je m'appelle Moussa MBALLO
 
-**🎓 Ingénieur Génie Civil** | **📊 Data Scientist & MLOps Engineer**
+🎓 **Ingénieur Génie Civil** | 📊 **Data Engineer / Data Scientist**
 
-Je combine une forte expertise technique dans l'auscultation, le diagnostic et la réhabilitation d'ouvrages avec une passion pour la **Data Science** et les **technologies cloud modernes**. 
-Mon objectif : croiser les mondes du **génie civil** et de la **donnée** pour apporter des solutions concrètes, robustes et intelligentes aux problématiques de la construction.
+Ingénieur de formation avec une solide expérience en **diagnostic et réhabilitation d’ouvrages**, j’ai progressivement orienté mon expertise vers la **data science**.  
+Mon objectif est clair : **concevoir des systèmes data robustes et intelligents**, avec une forte valeur métier, notamment dans les domaines de la **construction et de l’ingénierie**.
 
 ---
 
 ## 🚀 Compétences clés
 
-### 🔬 **Data Science & Machine Learning**
-- **Modélisation prédictive** : Scikit-learn, XGBoost, ensemble methods
-- **Analyse de données** : Python, Pandas, NumPy, Matplotlib, Seaborn
-- **Évaluation de modèles** : GridSearchCV, validation croisée, métriques avancées
+### 🔬 Data Science & Machine Learning
+- Modélisation prédictive : **Scikit-learn, XGBoost, ensemble methods**
+- Analyse de données : **Python, Pandas, NumPy, Matplotlib, Seaborn**
+- Évaluation de modèles : **GridSearchCV, validation croisée, métriques avancées**
 
-### 🏗️ **MLOps & Déploiement**
-- **APIs de production** : FastAPI, architecture REST
-- **Interfaces utilisateur** : Streamlit, dashboards interactifs
-- **Conteneurisation** : Docker, Docker Compose, orchestration
-- **Déploiement cloud** : Render, services managés
+### 🏗️ MLOps & Déploiement
+- APIs de production : **FastAPI**, architecture REST
+- Interfaces utilisateur : **Streamlit**, dashboards interactifs
+- Conteneurisation : **Docker, Docker Compose**
+- Déploiement cloud : **Render**, services managés
 
-### 🌐 **Data Engineering & Infrastructure**
-- **Bases de données** : PostgreSQL, SQL avancé
-- **Pipeline ETL** : ingestion, transformation, chargement de données
-- **Orchestration** : Kestra, workflow automation
-- **Cloud platforms** : GCP (BigQuery), services cloud modernes
+### 🌐 Data Engineering & Cloud
+- Bases de données : **PostgreSQL**, SQL avancé
+- Pipelines ETL : ingestion, transformation, chargement
+- Orchestration : **Kestra**
+- Cloud : **GCP (BigQuery, GCS)**
 
-### 💻 **Développement & DevOps**
-- **Backend** : Django, Spring Boot
-- **Infrastructure as Code** : Terraform, provisioning cloud
-- **Conteneurisation** : Docker, environnements reproductibles
-- **Versioning** : Git, bonnes pratiques de développement
-
-### 🏗️ **Génie Civil (Expertise métier)**
-- Diagnostics pathologiques d'ouvrages, calcul de structure
-- Prescriptions et suivi de travaux, réhabilitation
-- **Visualisation** : Power BI, tableaux de bord métier
+### 🏗️ Génie Civil (expertise métier)
+- Diagnostic pathologique d’ouvrages et calcul de structures
+- Réhabilitation et suivi de travaux
+- Inspections d'ouvrages d'art
+- Surveillance et instrumention d'infrastuctures
+- Data visualisation métier : **Power BI, Tableau**
 
 ---
 
 ## 📂 Projets phares
 
-### 🧱 **[Concrete Strength Predictor](https://github.com/MoussaInc/concrete-strength)** *(Projet principal)*
-**Pipeline MLOps complet** pour la prédiction de la résistance du béton en production
+### 🧱 **Concrete Strength Predictor** — *Projet MLOps principal*
+🔗 **Repo :** https://github.com/MoussaInc/concrete-strength
 
-- **Architecture complète** : Pipeline ETL → Modélisation XGBoost → API FastAPI → Dashboard Streamlit
-- **Technologies** : PostgreSQL, Docker Compose, déploiement Render
-- **Impact** : Démonstration d'un cycle MLOps end-to-end avec infrastructure scalable
+Pipeline MLOps complet pour la **prédiction de la résistance à la compression du béton**.
 
-### 🛠️ **[Data Engineering Zoomcamp 2025](https://github.com/MoussaInc/data-engineering-zoomcamp-2025)**
-**Formation intensive** sur les fondamentaux de la data engineering moderne
+- ETL → Modélisation **XGBoost** → API **FastAPI** → Dashboard **Streamlit**
+- Conteneurisation avec **Docker Compose**
+- Déploiement cloud (Render)
+- Projet **end-to-end**, orienté production et métier
 
-- **Modules complétés** : Docker & Terraform, Workflow Orchestration, Analytics Engineering
-- **Technologies** : Kestra, dbt, BigQuery, GCP
-- **Certification** : Bootcamp DataTalks.Club reconnu dans l'industrie
+👉 *Projet différenciant combinant data, ML et génie civil.*
 
-### 📈 **[Titanic Survival Analysis](https://github.com/MoussaInc/Data-analyse-et-ML/tree/main/projets/1-titanic-survival)**
-**Analyse prédictive** avec comparaison de modèles de machine learning
+---
 
-- **Approche** : Feature engineering, comparaison RandomForest vs XGBoost vs Logistic Regression
-- **Techniques** : GridSearchCV, validation croisée, analyse exploratoire approfondie
-- **Outils** : Jupyter, pandas, scikit-learn, visualisations avancées
+### 🛠️ **Data Engineering Zoomcamp 2026**
+🔗 **Repo :** https://github.com/MoussaInc/data-engineering-zoomcamp-2026
+
+Travaux et projets réalisés dans le cadre du **Data Engineering Zoomcamp (DataTalks.Club)**.
+
+- Docker & Terraform
+- Workflow orchestration avec **Kestra**
+- Data Warehouse : **BigQuery**
+- Analytics Engineering : **dbt**
+- Batch & Streaming processing
+
+👉 *Excellent aperçu de mes compétences en data engineering moderne.*
+
+---
+
+### 📊 **Data-analyse-et-ML**
+🔗 **Repo :** https://github.com/MoussaInc/Data-analyse-et-ML
+
+Collection de projets en **analyse de données et machine learning**.
+
+- EDA avancée
+- Modèles supervisés et non supervisés
+- Approche orientée compréhension des données et performance des modèles
 
 ---
 
 ## 🌐 Contact & Liens
-
-- **🔗 Site web** : [www.poussaim.org](http://www.poussaim.org)
-- **✉️ Email** : papis.mballo@gmail.com
-- **📞 Téléphone** : (+33) 6 01 45 86 26
-- **💼 LinkedIn** : *www.linkedin.com/in/moussamb-genie-civl-data*
+- 🔗 Site web : https://www.poussaim.org  
+- ✉️ Email : **papis.mballo@gmail.com**  
+- 💼 LinkedIn : https://www.linkedin.com/in/moussamb-genie-civil-data  
 
 ---
 
 ## 📚 Formations & Certifications
 
-### **Certifications Data & Tech** *(2023-2025)*
-- 🎓 **Power BI - Associé Analyste de Données** - Microsoft (Août 2025)
-- 🎓 **Google Advanced Data Analytics** - Coursera (Juillet 2025)
-- 🎓 **Data Engineering Zoomcamp** - DataTalks.Club (2025)
-- 🎓 **Développeur Full Stack** - UDEMY (Juillet 2023)
+### 🎓 Data & Tech (2023–2026)
+- Power BI – Data Analyst Associate (Microsoft)
+- Google Advanced Data Analytics – Coursera
+- **Data Engineering Zoomcamp – DataTalks.Club**
+- Développeur Full Stack – Udemy
 
-### **Formation Ingénieur** *(2010-2017)*
-- 🎓 **Master 2 Pro Génie Civil** – Université Grenoble Alpes (2017)
-- 🎓 **Master 2 Recherche Hydrologie** – INP Toulouse (2016)
-- 🎓 **Ingénieur Génie Civil** – EPT Thiès (Sénégal, 2013)
-- 🎓 **Licence 3 Mathématiques Appliquées & Informatique** – UGB Saint-Louis (Sénégal, 2010)
+### 🎓 Formation Ingénieur (2010-2017)
+- Master 2 Pro Génie Civil – Université Grenoble Alpes
+- Master 2 Recherche Hydrologie – INP Toulouse
+- Diplôme d’Ingénieur Génie Civil – EPT Thiès
+- Licence Mathématiques Appliquées & Informatique – UGB Saint-Louis
 
 ---
 
 ## 🎯 Objectifs professionnels
 
-Recherche d'opportunités en **Data Engineering**, **Data Science** ou **MLOps Engineering**, avec une forte appétence pour l'architecture de systèmes data et le déploiement de solutions ML en production. Particulièrement intéressé par :
+Je recherche des opportunités en :
+- **Data Engineering**
+- **Analytics Engineering**
+- **MLOps / Production ML**
 
-- 🔬 **Analytics Engineering** : transformation de données, modélisation dimensionnelle, dbt
-- 🤖 **MLOps & Production ML** : déploiement de modèles, monitoring, CI/CD pour l'IA
-- 🌐 **Applications sectorielles** : construction, ingénierie, infrastructures (expertise métier unique)
+avec un intérêt particulier pour les applications data dans l’ingénierie et la construction
 
 ---
 
-*⭐ N'hésitez pas à explorer mes projets, forker le code, ou me contacter pour échanger !*
+⭐ **N’hésitez pas à explorer mes dépôts, forker les projets ou me contacter pour échanger !**
