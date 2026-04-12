@@ -1,114 +1,87 @@
-# 👋 Bienvenue, je m'appelle Moussa MBALLO
+# Moussa MBALLO — Data Engineer & Analytics Engineer
 
-🎓 **Ingénieur Génie Civil** | 📊 **Data Engineer / Data Scientist**
-
-Ingénieur de formation avec une solide expérience en **diagnostic et réhabilitation d’ouvrages**, j’ai progressivement orienté mon expertise vers la **data science**.  
-Mon objectif est clair : **concevoir des systèmes data robustes et intelligents**, avec une forte valeur métier, notamment dans les domaines de la **construction et de l’ingénierie**.
+> Ingénieur Génie Civil reconverti en Data Engineer.  
+> Je construis des pipelines de données robustes, testés et documentés — avec une expertise métier rare dans l'ingénierie et la construction.
 
 ---
 
-## 🚀 Compétences clés
+## Stack
 
-### 🔬 Data Science & Machine Learning
-- Modélisation prédictive : **Scikit-learn, XGBoost, ensemble methods**
-- Analyse de données : **Python, Pandas, NumPy, Matplotlib, Seaborn**
-- Évaluation de modèles : **GridSearchCV, validation croisée, métriques avancées**
+**Analytics Engineering**
+`dbt` · `BigQuery` · `SQL` · `Airflow` · `GitHub Actions`
 
-### 🏗️ MLOps & Déploiement
-- APIs de production : **FastAPI**, architecture REST
-- Interfaces utilisateur : **Streamlit**, dashboards interactifs
-- Conteneurisation : **Docker, Docker Compose**
-- Déploiement cloud : **Render**, services managés
+**Data Engineering**
+`Python` · `Pandas` · `Docker` · `Kestra` · `GCP (BigQuery, GCS)`
 
-### 🌐 Data Engineering & Cloud
-- Bases de données : **PostgreSQL**, SQL avancé
-- Pipelines ETL : ingestion, transformation, chargement
-- Orchestration : **Kestra**
-- Cloud : **GCP (BigQuery, GCS)**
+**Machine Learning & MLOps**
+`Scikit-learn` · `XGBoost` · `FastAPI` · `Streamlit` · `Render`
 
-### 🏗️ Génie Civil (expertise métier)
-- Diagnostic pathologique d’ouvrages et calcul de structures
-- Réhabilitation et suivi de travaux
-- Inspections d'ouvrages d'art
-- Surveillance et instrumention d'infrastuctures
-- Data visualisation métier : **Power BI, Tableau**
+**Visualisation**
+`Power BI` · `Plotly` · `Streamlit`
 
 ---
 
-## 📂 Projets phares
+## Projets
 
-### 🧱 **Concrete Strength Predictor** — *Projet MLOps principal*
-🔗 **Repo :** https://github.com/MoussaInc/concrete-strength
+### 🏙️ Urban Data Platform — Analytics Engineering end-to-end
+[![CI](https://github.com/MoussaInc/urban-data-platform/actions/workflows/ci.yml/badge.svg)](https://github.com/MoussaInc/urban-data-platform/actions/workflows/ci.yml)
 
-Pipeline MLOps complet pour la **prédiction de la résistance à la compression du béton**.
+Pipeline ELT complet sur des données OpenStreetMap pour analyser la densité urbaine mondiale.
 
-- ETL → Modélisation **XGBoost** → API **FastAPI** → Dashboard **Streamlit**
-- Conteneurisation avec **Docker Compose**
-- Déploiement cloud (Render)
-- Projet **end-to-end**, orienté production et métier
+`dbt` · `BigQuery` · `Airflow` · `Docker` · `Streamlit` · `GitHub Actions` · `Workload Identity`
 
-👉 *Projet différenciant combinant data, ML et génie civil.*
+- Modélisation dbt en 3 couches (staging → core → marts)
+- Orchestration Airflow avec dépendances parallèles
+- CI/CD automatisé — tests DAG (pytest) + tests dbt sur BigQuery à chaque push
+- Dashboard Streamlit interactif avec score de densité urbaine par ville
 
----
-
-### 🛠️ **Data Engineering Zoomcamp 2026**
-🔗 **Repo :** https://github.com/MoussaInc/data-engineering-zoomcamp-2026
-
-Travaux et projets réalisés dans le cadre du **Data Engineering Zoomcamp (DataTalks.Club)**.
-
-- Docker & Terraform
-- Workflow orchestration avec **Kestra**
-- Data Warehouse : **BigQuery**
-- Analytics Engineering : **dbt**
-- Batch & Streaming processing
-
-👉 *Excellent aperçu de mes compétences en data engineering moderne.*
+→ [urban-data-platform](https://github.com/MoussaInc/urban-data-platform)
 
 ---
 
-### 📊 **Data-analyse-et-ML**
-🔗 **Repo :** https://github.com/MoussaInc/Data-analyse-et-ML
+### 🧱 Concrete Strength Predictor — MLOps end-to-end
 
-Collection de projets en **analyse de données et machine learning**.
+Pipeline MLOps pour la prédiction de résistance du béton à la compression (génie civil).
 
-- EDA avancée
-- Modèles supervisés et non supervisés
-- Approche orientée compréhension des données et performance des modèles
+`XGBoost` · `FastAPI` · `Streamlit` · `Docker` · `Render`
 
----
+- Modèle XGBoost avec validation croisée et GridSearchCV
+- API FastAPI déployée en production sur Render
+- Dashboard Streamlit connecté à l'API
 
-## 🌐 Contact & Liens
-- 🔗 Site web : https://www.poussaim.org  
-- ✉️ Email : **papis.mballo@gmail.com**  
-- 💼 LinkedIn : https://www.linkedin.com/in/moussamb-genie-civil-data  
+→ [concrete-strength](https://github.com/MoussaInc/concrete-strength)
 
 ---
 
-## 📚 Formations & Certifications
+### 🛠️ Data Engineering Zoomcamp 2026
 
-### 🎓 Data & Tech (2023–2026)
-- Power BI – Data Analyst Associate (Microsoft)
-- Google Advanced Data Analytics – Coursera
-- **Data Engineering Zoomcamp – DataTalks.Club**
-- Développeur Full Stack – Udemy
+Travaux du Data Engineering Zoomcamp (DataTalks.Club) — couverture complète de la stack moderne.
 
-### 🎓 Formation Ingénieur (2010-2017)
-- Master 2 Pro Génie Civil – Université Grenoble Alpes
-- Master 2 Recherche Hydrologie – INP Toulouse
-- Diplôme d’Ingénieur Génie Civil – EPT Thiès
-- Licence Mathématiques Appliquées & Informatique – UGB Saint-Louis
+`Docker` · `Terraform` · `Kestra` · `BigQuery` · `dbt` · `Spark`
+
+→ [data-engineering-zoomcamp-2026](https://github.com/MoussaInc/data-engineering-zoomcamp-2026)
 
 ---
 
-## 🎯 Objectifs professionnels
+## Formations
 
-Je recherche des opportunités en :
-- **Data Engineering**
-- **Analytics Engineering**
-- **MLOps / Production ML**
-
-avec un intérêt particulier pour les applications data dans l’ingénierie et la construction
+| Année | Formation |
+|---|---|
+| 2026 | Data Engineering Zoomcamp — DataTalks.Club |
+| 2025 | Google Advanced Data Analytics — Coursera |
+| 2017 | Master 2 Génie Civil — Université Grenoble Alpes |
+| 2015 | Master 2 Hydrologie — INP Toulouse |
+| 2013 | Diplôme Ingénieur Génie Civil — EPT Thiès |
+| 2010 | Licence 3 Mathematiques Appliquees et Informatique — Universite gaston Berger de Saint-Louis |
 
 ---
 
-⭐ **N’hésitez pas à explorer mes dépôts, forker les projets ou me contacter pour échanger !**
+## Ce que je recherche
+
+Poste en **Data Engineering** ou **Analytics Engineering** — idéalement dans un contexte où la donnée a un impact métier concret (construction, infrastructure, industrie).
+
+Disponible pour échanger sur des opportunités en CDI ou freelance.
+
+---
+
+📧 papis.mballo@gmail.com · [LinkedIn](https://www.linkedin.com/in/moussamb-genie-civil-data) · [Site](https://www.poussaim.org)
