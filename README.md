@@ -1,87 +1,56 @@
-# Moussa MBALLO — Data Engineer & Analytics Engineer
+### Moussa MBALLO
+## Analytics Engineer & Data Engineer
 
-> Ingénieur Génie Civil reconverti en Data Engineer.  
-> Je construis des pipelines de données robustes, testés et documentés — avec une expertise métier rare dans l'ingénierie et la construction.
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat&logo=metabase&logoColor=white)
 
----
-
-## Stack
-
-**Analytics Engineering**
-`dbt` · `BigQuery` · `SQL` · `Airflow` · `GitHub Actions`
-
-**Data Engineering**
-`Python` · `Pandas` · `Docker` · `Kestra` · `GCP (BigQuery, GCS)`
-
-**Machine Learning & MLOps**
-`Scikit-learn` · `XGBoost` · `FastAPI` · `Streamlit` · `Render`
-
-**Visualisation**
-`Power BI` · `Plotly` · `Streamlit`
+📧 papis.mballo@gmail.com &nbsp;·&nbsp; [Site](#) &nbsp;·&nbsp; 🟢 Disponible en CDI / freelance
 
 ---
 
-## Projets
-
-### 🏙️ Urban Data Platform — Analytics Engineering end-to-end
-[![CI](https://github.com/MoussaInc/urban-data-platform/actions/workflows/ci.yml/badge.svg)](https://github.com/MoussaInc/urban-data-platform/actions/workflows/ci.yml)
-
-Pipeline ELT complet sur des données OpenStreetMap pour analyser la densité urbaine mondiale.
-
-`dbt` · `BigQuery` · `Airflow` · `Docker` · `Streamlit` · `GitHub Actions` · `Workload Identity`
-
-- Modélisation dbt en 3 couches (staging → core → marts)
-- Orchestration Airflow avec dépendances parallèles
-- CI/CD automatisé — tests DAG (pytest) + tests dbt sur BigQuery à chaque push
-- Dashboard Streamlit interactif avec score de densité urbaine par ville
-
-→ [urban-data-platform](https://github.com/MoussaInc/urban-data-platform)
+- 🔧 Pipelines dbt Core + Snowflake/BigQuery testés, orchestrés (Airflow) et déployés en CI/CD
+- 🏗️ 10+ ans d'expertise génie civil — je comprends les données terrain, pas seulement les schémas
+- 📊 Du modèle en étoile au dashboard : ingestion → transformation → visualisation
 
 ---
 
-### 🧱 Concrete Strength Predictor — MLOps end-to-end
+### Projet phare
 
-Pipeline MLOps pour la prédiction de résistance du béton à la compression (génie civil).
+**🚲 Local Bike** — pipeline analytics end-to-end
+`dbt Core` `Snowflake` `Airflow` `Metabase` `GitHub Actions`
 
-`XGBoost` · `FastAPI` · `Streamlit` · `Docker` · `Render`
+**16 modèles** · **96 tests** · modèle en étoile · CI/CD slim (`--defer`) · dashboards en lecture seule
 
-- Modèle XGBoost avec validation croisée et GridSearchCV
-- API FastAPI déployée en production sur Render
-- Dashboard Streamlit connecté à l'API
-
-→ [concrete-strength](https://github.com/MoussaInc/concrete-strength)
+→ **[Voir le projet](https://github.com/MoussaInc/databird-analytics-engineer/tree/main/04_local_bike_project)**
 
 ---
 
-### 🛠️ Data Engineering Zoomcamp 2026
+### Autres projets
 
-Travaux du Data Engineering Zoomcamp (DataTalks.Club) — couverture complète de la stack moderne.
-
-`Docker` · `Terraform` · `Kestra` · `BigQuery` · `dbt` · `Spark`
-
-→ [data-engineering-zoomcamp-2026](https://github.com/MoussaInc/data-engineering-zoomcamp-2026)
-
----
-
-## Formations
-
-| Année | Formation |
-|---|---|
-| 2026 | Data Engineering Zoomcamp — DataTalks.Club |
-| 2025 | Google Advanced Data Analytics — Coursera |
-| 2017 | Master 2 Génie Civil — Université Grenoble Alpes |
-| 2015 | Master 2 Hydrologie — INP Toulouse |
-| 2013 | Diplôme Ingénieur Génie Civil — EPT Thiès |
-| 2010 | Licence 3 Mathematiques Appliquees et Informatique — Universite gaston Berger de Saint-Louis |
+| Projet | Stack | Lien |
+|---|---|---|
+| 🏙️ Urban Data Platform | dbt · BigQuery · Airflow · Streamlit | [→](#) |
+| 🧱 Concrete Strength Predictor | XGBoost · FastAPI · Render | [→](#) |
 
 ---
 
-## Ce que je recherche
+### Formation
 
-Poste en **Data Engineering** ou **Analytics Engineering** — idéalement dans un contexte où la donnée a un impact métier concret (construction, infrastructure, industrie).
+**Analytics Engineer & Data Orchestration** — Databird (2026) &nbsp;·&nbsp; **Ingénieur Génie Civil** — EPT Thiès (2013)
 
-Disponible pour échanger sur des opportunités en CDI ou freelance.
+<details>
+<summary>Voir plus</summary>
 
----
+- 2026 — Data Engineering Zoomcamp, DataTalks.Club
+- 2025 — Google Advanced Data Analytics, Coursera
+- 2017 — Master 2 Génie Civil, Université Grenoble Alpes
+- 2015 — Master 2 Hydrologie, INP Toulouse
+- 2010 — Licence 3 Mathématiques Appliquées et Informatique, Université Gaston Berger
 
-📧 papis.mballo@gmail.com · [LinkedIn](https://www.linkedin.com/in/moussamb-genie-civil-data) · [Site](https://www.poussaim.org)
+</details>
