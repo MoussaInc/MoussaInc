@@ -35,8 +35,8 @@
 
 | Projet | Stack | Lien |
 |---|---|---|
-| 🏙️ Urban Data Platform | dbt · BigQuery · Airflow · Streamlit | [→](#) |
-| 🧱 Concrete Strength Predictor | XGBoost · FastAPI · Render | [→](#) |
+| 🏙️ Urban Data Platform | dbt · BigQuery · Airflow · Streamlit | [→](https://github.com/MoussaInc/urban-data-platform) |
+| 🧱 Concrete Strength Predictor | XGBoost · FastAPI · Render | [→](https://github.com/MoussaInc/Data-analyse-et-ML/tree/main/projets/2-concrete_strength_project) |
 
 ---
 
